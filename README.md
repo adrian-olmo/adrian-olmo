@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrian-olmo&show_icons=true&locale=en&layout=compact" alt="adrian-olmo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrian-olmo&show_icons=true&locale=en" alt="adrian-olmo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adrian-olmo&show_icons=true&locale=en" alt="adrian-olmo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-olmo&" alt="adrian-olmo" /></p>
