@@ -7,9 +7,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-olmo&" alt="adrian-olmo" /></p>
 
-- 🔭 I’m currently working on [Api Web Laravel](https://github.com/jarki7777/API_web_LFG)
 
-- 📫 How to reach me **olmoacedo.adrian@gmail.com**
+:computer: Proyecto en el cual estoy trabajando ahora mismo :computer: -- <a href="https://github.com/jarki7777/API_web_LFG"> Api Web Laravel </a>
+<br>
+1️⃣ Mi primer proyecto en Github -- <a href="https://github.com/Galactuuus/reloj_aniversario"> Reloj Aniversario</a>
+<br>
+⏱ Proyecto al que mas tiempo he dedicado -- <a href="https://github.com/Galactuuus/KIANFilms"> KIANFILMS</a>
 
 
 
