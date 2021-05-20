@@ -13,7 +13,7 @@
 <p align ="center">
 :computer: Project I'm working on right now :computer: <a href="https://github.com/jarki7777/API_web_LFG"> Api Web Laravel</a>
 <br>
-:one: My first project on Github :one: -- <a href="https://github.com/IronetIvan/App_Turistica_Android"> TourMap Mobile Version</a>
+:one: My first project on Github :one: -- <a href="https://github.com/adrian-olmo/App_Turistica_Android"> TourMap Mobile Version</a>
 <br>
 :hourglass: Project I've spent the most time on :hourglass: -- <a href="https://github.com/jarki7777/API_web_LFG"> Api Web Laravel</a>
  </p>
