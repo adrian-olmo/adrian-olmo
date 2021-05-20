@@ -1,4 +1,3 @@
-# adrian-olmo
 <h1 align="center">Hi 👋, I'm Adrian Olmo</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
@@ -10,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adrian-olmo/" target="blank"><img align="center" src="https://www.flaticon.es/icono-gratis/linkedin_145807?term=linkedin&page=1&position=5&page=1&position=5&related_id=145807&origin=search" alt="https://www.linkedin.com/in/adrian-olmo/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adrian-olmo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-olmo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrian-olmo&show_icons=true&locale=en" alt="adrian-olmo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-olmo&" alt="adrian-olmo" /></p>
+
