@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Adrian Olmo</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrian-olmo&show_icons=true&locale=en&layout=compact" alt="adrian-olmo" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrian-olmo&show_icons=true&locale=en" alt="adrian-olmo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-olmo&" alt="adrian-olmo" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-olmo&" alt="adrian-olmo" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrian-olmo&show_icons=true&locale=en&layout=compact" alt="adrian-olmo" /></p>
 
 
-:computer: Proyecto en el cual estoy trabajando ahora mismo :computer: -- <a href="https://github.com/jarki7777/API_web_LFG"> Api Web Laravel </a>
+:computer: Project I'm working on right now :computer: -- <a href="https://github.com/jarki7777/API_web_LFG"> Api Web Laravel </a>
 <br>
-1️⃣ Mi primer proyecto en Github -- <a href="https://github.com/IronetIvan/App_Turistica_Android"> Aplicación Turistica </a>
+:one: My first proyect on Github :one: -- <a href="https://github.com/IronetIvan/App_Turistica_Android"> Aplicación Turistica </a>
 <br>
-⏱ Proyecto al que mas tiempo he dedicado -- <a href="https://github.com/jarki7777/API_web_LFG"> Api Web Laravel </a>
+:hourglass: Project I've spent the most time on :hourglass: -- <a href="https://github.com/jarki7777/API_web_LFG"> Api Web Laravel </a>
 
 
 
