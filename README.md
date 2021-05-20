@@ -10,9 +10,9 @@
 
 :computer: Proyecto en el cual estoy trabajando ahora mismo :computer: -- <a href="https://github.com/jarki7777/API_web_LFG"> Api Web Laravel </a>
 <br>
-1️⃣ Mi primer proyecto en Github -- <a href="https://github.com/Galactuuus/reloj_aniversario"> Reloj Aniversario</a>
+1️⃣ Mi primer proyecto en Github -- <a href="https://github.com/IronetIvan/App_Turistica_Android"> Aplicación Turistica </a>
 <br>
-⏱ Proyecto al que mas tiempo he dedicado -- <a href="https://github.com/Galactuuus/KIANFilms"> KIANFILMS</a>
+⏱ Proyecto al que mas tiempo he dedicado -- <a href="https://github.com/jarki7777/API_web_LFG"> Api Web Laravel </a>
 
 
 
