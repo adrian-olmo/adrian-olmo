@@ -1,3 +1,3 @@
 # adrian-olmo
  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=galactuuus)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adrian-olmo)
