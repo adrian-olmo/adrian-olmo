@@ -21,6 +21,5 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adrian-olmo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-olmo/" height="30" width="40" /></a>
-</p>
+<a href="mailto:olmoacedo.adrian@gmail.com?subject=Contacto%20desde%20Github" > <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail" width="30"      height="30"/> </a>
+ <a href="https://www.linkedin.com/in/adrian-olmo/"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="30"        height="30"/> </a>
